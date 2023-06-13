@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tmp/0x02  | tr -d 'cC'
+echo /tmp/0x02  | tr -d 'cC'
